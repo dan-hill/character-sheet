@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'character-sheet',
+    podModulePrefix: 'character-sheet/pods',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
