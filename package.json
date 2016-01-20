@@ -1,0 +1,10 @@
+{
+  "name": "character-sheet",
+  "version": "0.0.0",
+  "description": "Small description for character-sheet goes here",
+  "private": true,
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
